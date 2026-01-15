@@ -1,1 +1,178 @@
-# canalesembymo
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="Generalistas" tvg-name="La 2",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalistas" tvg-name="Antena 3",Antena 3
+https://media-proxy.vynx.workers.dev/dlhd?channel=531
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalistas" tvg-name="Cuatro",Cuatro
+https://media-proxy.vynx.workers.dev/dlhd?channel=535
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalistas" tvg-name="TELECINCO",TELECINCO
+https://media-proxy.vynx.workers.dev/dlhd?channel=532
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalistas" tvg-name="La Sexta",La Sexta
+https://media-proxy.vynx.workers.dev/dlhd?channel=534
+#EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
+https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="Informativos" tvg-name="24h",24h 
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id=" tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="Generalistas" tvg-name="STAR TVE",STAR TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
+https://jmp2.uk/stvp-ES3800001V1
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" group-title="Deportivos" tvg-name="La Liga Inside",La Liga Inside
+https://jmp2.uk/stvp-ESBD3600001Q1
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png" group-title="Deportivos" tvg-name="FIFA+",FIFA+
+https://jmp2.uk/stvp-ESBC2700009B4
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png" group-title="Deportivos" tvg-name="Surf Channel",Surf Channel
+https://jmp2.uk/stvp-ES3400002PY
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png" group-title="Deportivos" tvg-name="World Poker Tour",World Poker Tour
+https://jmp2.uk/stvp-ESBD2900001P9
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png" group-title="Deportivos" tvg-name="Television Consciente",Television Consciente
+https://jmp2.uk/stvp-ESBC1700002IM
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-id=" tvg-logo="" group-title="Deportivos" tvg-name="EuroSport 1",EuroSport 1
+https://media-proxy.vynx.workers.dev/dlhd?channel=524
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name="EuroSport 2",EuroSport 2
+https://media-proxy.vynx.workers.dev/dlhd?channel=525
+#EXTINF:-1 tvg-id=" tvg-logo="" group-title="Deportivos" tvg-name="GOL PLAY",GOL PLAY
+https://media-proxy.vynx.workers.dev/dlhd?channel=530
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="Infantiles" tvg-name="Pluto TV Kids",Pluto TV Kids
+https://jmp2.uk/stvp-ESAJ38000046O
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png" group-title="Infantiles" tvg-name="En Familia - Rakuten TV",En Familia - Rakuten TV
+https://jmp2.uk/stvp-ES260001081
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Anime" tvg-name="Anime Vision",Anime Vision
+https://jmp2.uk/stvp-ES300029LP
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="Anime" tvg-name="Anime Vision Classics",Anime Vision Classics
+https://jmp2.uk/stvp-ES3000288I
+#EXTINF:-1 tvg-id="movistar-laliga.es" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png" group-title="Deportivos" tvg-name="MOVISTAR LA LIGA",MOVISTAR LA LIGA
+https://media-proxy.vynx.workers.dev/dlhd?channel=84
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name="LA LIGA HYPERMOTION",LA LIGA HYPERMOTION
+https://media-proxy.vynx.workers.dev/dlhd?channel=539
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6074/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/4Vp9VxW/CHAP1.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 2",LIGA DE CAMPEONES 2
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/e7d8cae7f693fe46e89bbf74820caac9ffb32a30/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/5vrp6cD/CHAP2.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 3",LIGA DE CAMPEONES 3
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/2b5129adc57d43790634d796fe3468b9fd061259/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/5vrp6cD/CHAP2.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 3",LIGA DE CAMPEONES 3
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/4416843c96b7f7a1bc55c476091a60fff0922bc7/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name=DAZN LA LIGA",DAZN LA LIGA
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name=DAZN LA LIGA",DAZN LA LIGA ES
+https://media-proxy.vynx.workers.dev/dlhd?channel=538
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n8YX3Z87/36861466-ico.png" group-title="Deportivos" tvg-name=DAZN LA LIGA 2",DAZN LA LIGA 2
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n8YX3Z87/36861466-ico.png" group-title="Deportivos" tvg-name=DAZN LA LIGA 2",DAZN LA LIGA 2
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/5091ea94b75ba4b50b078b4102a3d0e158ef59c3/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name=DAZN F1",DAZN F1 
+https://media-proxy.vynx.workers.dev/dlhd?channel=537
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/FkhZqYPT/36861527-ico.png" group-title="Deportivos" tvg-name=DAZN 1",DAZN 1 
+https://media-proxy.vynx.workers.dev/dlhd?channel=445
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/FkhZqYPT/36861527-ico.png" group-title="Deportivos" tvg-name=DAZN 1",DAZN 1
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/b03f9310155cf3b4eafc1dfba763781abc3ff025/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name=DAZN 2",DAZN 2
+https://media-proxy.vynx.workers.dev/dlhd?channel=446
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name=DAZN 3",DAZN 3
+https://media-proxy.vynx.workers.dev/dlhd?channel=447
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name=DAZN 4",DAZN 4
+https://media-proxy.vynx.workers.dev/dlhd?channel=448
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@yeclanodeportivo.net/wp-content/uploads/2024/08/PRIMERA_FEDERACION_VERSUS_Horizontal_fondo_Blanco-removebg-preview.png" group-title="Deportivos" tvg-name=PRIMERA FEDERACION",PRIMERA FEDERACION
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/599a2fda91aa55703e2c5a51562d9dbf5d3d31d9/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/G3NZWRZg/Daco-796425.png" group-title="Deportivos" tvg-name=MOVISTAR PLUS",MOVISTAR PLUS
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/199190e3f28c1de0be34bccf0d3568dc65209b99/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/G3NZWRZg/Daco-796425.png" group-title="Deportivos" tvg-name=MOVISTAR PLUS",MOVISTAR PLUS
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/5866e83279307bf919068ae7a0d250e4e424e464/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/G3NZWRZg/Daco-796425.png" group-title="Deportivos" tvg-name=MOVISTAR PLUS",MOVISTAR PLUS
+http://vlc.shickat.me:8000/pid/8c67cdb5ba81976662c3a67984a9545d9cfb0f70/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/G3NZWRZg/Daco-796425.png" group-title="Deportivos" tvg-name=MOVISTAR PLUS",MOVISTAR PLUS
+http://vlc.shickat.me:8000/pid/b6ffbbc72a5b6b579faf79ebac229af7a25b933b/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/TcZgLqR/VAMOSD.png" group-title="Deportivos" tvg-name=VAMOS,VAMOS 
+https://media-proxy.vynx.workers.dev/dlhd?channel=521
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=Win Sports +,Win Sports + CO
+http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=Flow Sport,Flow Sport AR
+http://200.80.230.123:8000/play/a0bf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=SKY SPORT LALIGA,SKY SPORT LALIGA MX
+http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=SKY SPORT LALIGA,SKY SPORT LALIGA MEX
+http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9599
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=DSPORTS,DSPORTS AR
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=ESPN 2,ESPN 2 AR
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=FOX MX,FOX MX
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=FOX SPORTS 1,FOX SPORTS 1 MEX
+http://45.167.255.254:8010/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=FOX SPORTS 2,FOX SPORTS 2 MEX
+http://45.167.255.254:8010/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=FOX SPORTS 3,FOX SPORTS 3 MEX
+http://45.167.255.254:8010/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=Azteca Deportes,Azteca Deportes MEX
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=ESPN PREMIUM,ESPN PREMIUM AR
+https://cdnlatam.sysedge-delivery.com/ESPN_PREMIUM_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=TNT Sports,TNT Sports AR
+https://cdnlatam.sysedge-delivery.com/TNT_SPORTS_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=BEIN SPORT EXTRA Ñ,BEIN SPORT EXTRA Ñ ES
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=BEIN SPORT EXTRA Ñ,BEIN SPORT EXTRA Ñ
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportivos" tvg-name=ELLAS VAMOS",ELLAS VAMOS
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/3040cfbef2d8170ff3909db6f21a6981d9ec74c8/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2g6DGvZ/CPDEP.png" group-title="Deportivos" tvg-name=DEPORTES",DEPORTES
+https://media-proxy.vynx.workers.dev/dlhd?channel=436
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2yMZCTm/ARTHUR.png" group-title="Deportivos" tvg-name=DEPORTES 2",DEPORTES 2
+https://media-proxy.vynx.workers.dev/dlhd?channel=438
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n18ZtYW/USOP2.png" group-title="Deportivos" tvg-name=DEPORTES 3",DEPORTES 3
+https://media-proxy.vynx.workers.dev/dlhd?channel=526
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name=DEPORTES 4",DEPORTES 4
+https://media-proxy.vynx.workers.dev/dlhd?channel=527
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png" group-title="Deportivos" tvg-name=GOLF",GOLF
+https://media-proxy.vynx.workers.dev/dlhd?channel=528
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name=ONE TORO",ONE TORO
+https://media-proxy.vynx.workers.dev/dlhd?channel=749
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260113T032319SQUARE.png" group-title="Cine" tvg-name=Cine Western",Cine Western
+https://jmp2.uk/stvp-ES2300005G7
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png" group-title="Cine" tvg-name=Pluto TV Cine Estelar",Pluto TV Cine Estelar
+https://jmp2.uk/stvp-ESAJ3800001KT
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Estrenos%20HD.png" group-title="Cine" tvg-name=MOVISTAR ESTRENOS",MOVISTAR ESTRENOS
+http://vlc.shickat.me:8000/pid/192f2ac5b372dfddef694e48edd2d56e308b51e7/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/MkX4dhFy/35406363-ico.png" group-title="Cine" tvg-name=MOVISTAR ACCION",MOVISTAR ACCION
+http://vlc.shickat.me:8000/pid/089673779de9fa7a18ac8dc26eb4a79cf5a86f96/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/qMjNNY3Q/35406390-ico.png" group-title="Cine" tvg-name=MOVISTAR INDIE",MOVISTAR INDIE
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/7716c9fd5bd4413715e4e26f97efb91802f6ee80/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/ZRmWnzfG/35406397-ico.png" group-title="Cine" tvg-name=MOVISTAR COMEDIA",MOVISTAR COMEDIA
+http://vlc.shickat.me:8000/pid/cf0cb321eed6765c2eadbd9983570f6674ce5df6/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/sdXb3jPp/35406403-ico.png" group-title="Cine" tvg-name=MOVISTAR DRAMA",MOVISTAR DRAMA
+http://vlc.shickat.me:8000/pid/a6de6a4977d7801bbddc9c7739d822f4beb358ae/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/PsMtNNP4/35445799-ico.png" group-title="Documentales" tvg-name=MOVISTAR DOCUMENTALES",MOVISTAR DOCUMENTALES
+http://vlc.shickat.me:8000/pid/b3fc9b5647c5933b101c0b6b64322590c68587b9/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/7xzjDRqg/Originales-por-Movistar-Plus-2023-Logo-svg.png" group-title="Cine" tvg-name=MOVISTAR ORIGINALES",MOVISTAR ORIGINALES
+http://vlc.shickat.me:8000/pid/096b817fcc836535f608facb15fca6408fae3162/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Canal_Cocina.svg/330px-Canal_Cocina.svg.png" group-title="Documentales" tvg-name=CANAL COCINA",CANAL COCINA
+http://vlc.shickat.me:8000/pid/96f092e1fa99062f6da14cae230b877ad3ed849b/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="Cine" tvg-name=XTRM",XTRM
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/d7d3830018cfd93c7430c19ba703a053680476a0/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Series" tvg-name=AMC",AMC
+http://vlc.shickat.me:8000/pid/55ff9ee631af351f365f51cf3601695bf1fd20f3/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=""https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png" group-title="Series" tvg-name=BBC Series",BBC Series
+https://jmp2.uk/stvp-ES2900001DQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Series" tvg-name=Crimen - Rakuten TV",Crimen - Rakuten TV
+https://jmp2.uk/stvp-ES2600005G9
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/2389px-Be_Mad_TV.svg.png" group-title="Generalistas" tvg-name="BEMAD",BEMAD
+http://vlc.shickat.me:8000/pid/6e1b5fd8753352486aa932f802534a17556e1f60/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/thumb/6/60/Canal_Decasa_logo.svg/2560px-Canal_Decasa_logo.svg.png" group-title="Documentales" tvg-name=DECASA",DECASA
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/155d742120310a0ca80b0c8833d94979aa7f0b08/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/sJ17VSKm/images.png" group-title="Documentales" tvg-name=CAZA Y PESCA",CAZA Y PESCA
+http://vlc.shickat.me:8000/pid/8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png" group-title="Entretenimiento" tvg-name=MTV Cribs",MTV Cribs
+https://jmp2.uk/stvp-ESAJ3800006TT
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png" group-title="Entretenimiento" tvg-name=MTV Originals",MTV Originals
+https://jmp2.uk/stvp-ESAJ380000226
