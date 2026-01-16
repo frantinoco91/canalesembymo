@@ -137,12 +137,46 @@ https://media-proxy.vynx.workers.dev/dlhd?channel=526
 https://media-proxy.vynx.workers.dev/dlhd?channel=527
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png" group-title="Deportivos" tvg-name=GOLF",GOLF
 https://media-proxy.vynx.workers.dev/dlhd?channel=528
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="Deportivos" tvg-name=TOP Barça",TOP Barça
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel_id=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=149.102.236.246&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6347&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=006a31c0-b8b7-415f-bc8d-15299021feff&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name=ONE TORO",ONE TORO
 https://media-proxy.vynx.workers.dev/dlhd?channel=749
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260113T032319SQUARE.png" group-title="Cine" tvg-name=Cine Western",Cine Western
 https://jmp2.uk/stvp-ES2300005G7
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png" group-title="Cine" tvg-name=Pluto TV Cine Estelar",Pluto TV Cine Estelar
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png" group-title="Cine" tvg-name=Runtime",Runtime
 https://jmp2.uk/stvp-ESAJ3800001KT
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine" tvg-name=Cines Verdi TV",Cines Verdi TV
+https://jmp2.uk/stvp-ESBC2700011AZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png" group-title="Cine" tvg-name=Pluto TV Cine Estelar",Pluto TV Cine Estelar
+https://jmp2.uk/stvp-ESBC400001QQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png" group-title="Cine" tvg-name=Peliculas Top - Rakuten TV",Peliculas Top - Rakuten TV
+https://jmp2.uk/stvp-ES2600013H4
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4200001MR_20251209T125859SQUARE.png" group-title="Cine" tvg-name=Moviesphere",Moviesphere
+https://jmp2.uk/stvp-ES4200001MR
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20251125T101435SQUARE.png" group-title="Cine" tvg-name=Runtime Romance",Runtime Romance
+https://jmp2.uk/stvp-ESBD800004KU
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png" group-title="Cine" tvg-name=Peliculas Romanticas - Rakuten TV",Peliculas Romanticas - Rakuten TV
+https://jmp2.uk/stvp-ES2600012C9
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Cine" tvg-name=Cine Feel Good - Verdi TV",Cine Feel Good - Verdi TV
+https://jmp2.uk/stvp-ESBC2700012RP
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png" group-title="Cine" tvg-name=Comedia - Rakuten TV",Comedia - Rakuten TV
+https://jmp2.uk/stvp-ES260000700
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine" tvg-name=Planeta de Cine",Planeta de Cine
+https://jmp2.uk/stvp-ES2800001G7
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png" group-title="Cine" tvg-name=Cine Español - Rakuten TV",Cine Español - Rakuten TV
+https://jmp2.uk/stvp-ES3000008O8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png" group-title="Cine" tvg-name=Sci-Fi - Rakuten TV",Sci-Fi - Rakuten TV
+https://jmp2.uk/stvp-ES500004NO
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251111T011927SQUARE.png" group-title="Cine" tvg-name=Cine Friki",Cine Friki
+https://jmp2.uk/stvp-ESBD800001RJ
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251111T011927SQUARE.png" group-title="Cine" tvg-name=Thrillers - Rakuten TV",Thrillers - Rakuten TV
+https://jmp2.uk/stvp-ES4100002WB
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20251209T004318SQUARE.png" group-title="Cine" tvg-name=Runtime Accion",Runtime Accion
+https://jmp2.uk/stvp-ESBD80000288
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" group-title="Cine" tvg-name=Peliculas de Drama - Rakuten TV",Peliculas de Drama - Rakuten TV
+https://jmp2.uk/stvp-ES2600003UM
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png" group-title="Cine" tvg-name=Accion - Rakuten TV",Accion - Rakuten TV
+https://jmp2.uk/stvp-ES2600004BD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Estrenos%20HD.png" group-title="Cine" tvg-name=MOVISTAR ESTRENOS",MOVISTAR ESTRENOS
 http://vlc.shickat.me:8000/pid/192f2ac5b372dfddef694e48edd2d56e308b51e7/stream.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/MkX4dhFy/35406363-ico.png" group-title="Cine" tvg-name=MOVISTAR ACCION",MOVISTAR ACCION
@@ -159,21 +193,59 @@ http://vlc.shickat.me:8000/pid/b3fc9b5647c5933b101c0b6b64322590c68587b9/stream.m
 http://vlc.shickat.me:8000/pid/096b817fcc836535f608facb15fca6408fae3162/stream.mp4
 #EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Canal_Cocina.svg/330px-Canal_Cocina.svg.png" group-title="Documentales" tvg-name=CANAL COCINA",CANAL COCINA
 http://vlc.shickat.me:8000/pid/96f092e1fa99062f6da14cae230b877ad3ed849b/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="Documentales" tvg-name=Pluto TV Cocina",Pluto TV Cocina
+https://jmp2.uk/stvp-ESAJ3800007PC
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png" group-title="Documentales" tvg-name=Viajes & Sabores",Viajes & Sabores
+https://jmp2.uk/stvp-ES300033TI
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260113T032317SQUARE.png" group-title="Documentales" tvg-name=BBC Earth",BBC Earth
+https://jmp2.uk/stvp-ES3200001F1
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png" group-title="Documentales" tvg-name=Ice Pilots",Ice Pilots
+https://jmp2.uk/stvp-ES24000028L
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png" group-title="Documentales" tvg-name=La Fiebre del Jade",La Fiebre del Jade
+https://jmp2.uk/stvp-ES1600002QL
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png" group-title="Documentales" tvg-name=Top Gear",Top Gear
+https://jmp2.uk/stvp-ES2700002YP
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20250819T033234SQUARE.png" group-title="Documentales" tvg-name=Historia y Vida",Historia y Vida
+https://jmp2.uk/stvp-ES12000024R
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png" group-title="Documentales" tvg-name=NatureTime",NatureTime
+https://jmp2.uk/stvp-ESBA22000102A
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png" group-title="Documentales" tvg-name=WildEarth",WildEarth
+https://jmp2.uk/stvp-ESBA330004121
+#EXTINF:-1 tvg-id="" tvg-logo=https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/84e0b7b3-1612-470a-afdc-67a8c5b0fbbe.jpeg" group-title="Documentales" tvg-name=Estilo y Vida",Estilo y Vida
+https://lifestyle-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6232&ads.rtv_channel_name=lifestyle-rakuten-tv_es&ads.rtv_content_id=6232&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ae4eeb86-bfe1-41d0-a7e1-7d9c53a2bf97&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6232&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1 tvg-id="" tvg-logo=https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg" group-title="Documentales" tvg-name=Travelxp",Travelxp
+https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=outdoors%2Chobbies&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=5756&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=4b6b1425-7db0-47ad-8b30-f5c041dab12e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1613
 #EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="Cine" tvg-name=XTRM",XTRM
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/d7d3830018cfd93c7430c19ba703a053680476a0/stream.mp4
 #EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Series" tvg-name=AMC",AMC
 http://vlc.shickat.me:8000/pid/55ff9ee631af351f365f51cf3601695bf1fd20f3/stream.mp4
 #EXTINF:-1 tvg-id="" tvg-logo=""https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png" group-title="Series" tvg-name=BBC Series",BBC Series
 https://jmp2.uk/stvp-ES2900001DQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Series" tvg-name=Crimen - Rakuten TV",Crimen - Rakuten TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Documentales" tvg-name=Crimen - Rakuten TV",Crimen - Rakuten TV
 https://jmp2.uk/stvp-ES2600005G9
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg" group-title="Documentales" tvg-name=Todo Crimen",Todo Crimen
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=6f11558c-c131-4f7f-bf51-bd9067ada88e&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_channel_id=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=todo-crimen-spa-rakutentv&ads.xumo_streamId=88883018
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/2389px-Be_Mad_TV.svg.png" group-title="Generalistas" tvg-name="BEMAD",BEMAD
 http://vlc.shickat.me:8000/pid/6e1b5fd8753352486aa932f802534a17556e1f60/stream.mp4
 #EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@upload.wikimedia.org/wikipedia/commons/thumb/6/60/Canal_Decasa_logo.svg/2560px-Canal_Decasa_logo.svg.png" group-title="Documentales" tvg-name=DECASA",DECASA
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/155d742120310a0ca80b0c8833d94979aa7f0b08/stream.mp4
-#EXTINF:-1 tvg-id="" tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/sJ17VSKm/images.png" group-title="Documentales" tvg-name=CAZA Y PESCA",CAZA Y PESCA
+#EXTINF:-1 tvg-id="" tvg-logo=https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9464f310-33c3-4e0f-b258-eeaf24d3fa51.png" group-title="Documentales" tvg-name=Oficios Perdidos",Oficios Perdidos
+https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=927&ads_content_categories=IAB1&ads_content_genre=entertainment%2Chistory&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6179&ads_rtv_content_language=es&ads_streaming_id=9ef2e286-2727-4b7d-8ed7-9db7e683aaae&ads_tcs_channel_id=927&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="" "tvg-logo=https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/sJ17VSKm/images.png" group-title="Documentales" tvg-name=CAZA Y PESCA",CAZA Y PESCA
 http://vlc.shickat.me:8000/pid/8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa/stream.mp4
 #EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png" group-title="Entretenimiento" tvg-name=MTV Cribs",MTV Cribs
 https://jmp2.uk/stvp-ESAJ3800006TT
 #EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png" group-title="Entretenimiento" tvg-name=MTV Originals",MTV Originals
 https://jmp2.uk/stvp-ESAJ380000226
+#EXTINF:-1 tvg-id="" "tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png" group-title="Entretenimiento" tvg-name=MTV Catfish",MTV Catfish
+https://jmp2.uk/stvp-ESAJ3800003LX
+#EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento" tvg-name=Comedia Made in Spain",Comedia Made in Spain
+https://jmp2.uk/stvp-ESAJ3800005C5
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png" group-title="Musica" tvg-name=Vevo Latino",Vevo Latino
+https://jmp2.uk/stvp-ESBC2100002LV
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png" group-title="Musica" tvg-name=Vevo Retro",Vevo Retro
+https://jmp2.uk/stvp-ESBD230000289
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png" group-title="Musica" tvg-name=Vevo Pop",Vevo Pop
+https://jmp2.uk/stvp-ESBC2100001IU
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/02365da1-268e-42e2-8fe2-5d6486ac5ddc.jpeg" group-title="Musica" tvg-name=Flamenco Auditorio",Flamenco Auditorio
+https://daiconnect.com/live/hls/tvup/rk-flamenco/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=5127&ads_content_categories=IAB1&ads_content_genre=entertainment%2Carts&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5965&ads_rtv_content_language=es&ads_streaming_id=0d144297-8e63-477e-952f-5bfd542f53a5&ads_tcs_channel_id=5127&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
