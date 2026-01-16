@@ -3,12 +3,6 @@
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="Generalistas" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalistas" tvg-name="Antena 3",Antena 3
-https://media-proxy.vynx.workers.dev/dlhd?channel=531
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalistas" tvg-name="Cuatro",Cuatro
-https://media-proxy.vynx.workers.dev/dlhd?channel=535
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalistas" tvg-name="TELECINCO",TELECINCO
-https://media-proxy.vynx.workers.dev/dlhd?channel=532
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalistas" tvg-name="La Sexta",La Sexta
 https://media-proxy.vynx.workers.dev/dlhd?channel=534
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
@@ -52,7 +46,15 @@ https://jmp2.uk/stvp-ES300029LP
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="Anime" tvg-name="Anime Vision Classics",Anime Vision Classics
 https://jmp2.uk/stvp-ES3000288I
 #EXTINF:-1 tvg-id="movistar-laliga.es" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png" group-title="Deportivos" tvg-name="MOVISTAR LA LIGA",MOVISTAR LA LIGA
-https://media-proxy.vynx.workers.dev/dlhd?channel=84
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/c9321006921967d6258df6945f1d598a5c0cbf1e/stream.mp4
+#EXTINF:-1 tvg-id="movistar-laliga.es" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3m9ptCz4/MLIG1.png" group-title="Deportivos" tvg-name="MOVISTAR LA LIGA",MOVISTAR LA LIGA 2
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/51b363b1c4d42724e05240ad068ad219df8042ec/stream.mp4
+#EXTINF:-1 tvg-id="movistar-laliga.es" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/mV2cQ3TZ/MLIG2.png" group-title="Deportivos" tvg-name="MOVISTAR LA LIGA",MOVISTAR LA LIGA 3
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/7ad14386deef2f45ffe17d30a631dbf79b6a1a87/stream.mp4
+#EXTINF:-1 tvg-id="movistar-laliga.es" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/mV2cQ3TZ/MLIG2.png" group-title="Deportivos" tvg-name="MOVISTAR LA LIGA",MOVISTAR LA LIGA 3 opc2
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/7ad14386deef2f45ffe17d30a631dbf79b6a1a87/stream.mp4
+#EXTINF:-1 tvg-id="movistar-laliga.es" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/vCgBHRBf/MLIG3.png" group-title="Deportivos" tvg-name="MOVISTAR LA LIGA",MOVISTAR LA LIGA 4
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/2a6b1fd8a24b23747db1ea534a51457708523602/stream.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name="LA LIGA HYPERMOTION",LA LIGA HYPERMOTION
 https://media-proxy.vynx.workers.dev/dlhd?channel=539
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
@@ -66,7 +68,7 @@ http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/4416843c
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name=DAZN LA LIGA",DAZN LA LIGA
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name=DAZN LA LIGA",DAZN LA LIGA ES
-https://media-proxy.vynx.workers.dev/dlhd?channel=538
+http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/1bcee22d5476f2eae9dc2cb24e3685152cf285cb/stream.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n8YX3Z87/36861466-ico.png" group-title="Deportivos" tvg-name=DAZN LA LIGA 2",DAZN LA LIGA 2
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884/stream.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n8YX3Z87/36861466-ico.png" group-title="Deportivos" tvg-name=DAZN LA LIGA 2",DAZN LA LIGA 2
