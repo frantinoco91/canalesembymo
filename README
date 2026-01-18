@@ -59,8 +59,6 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31823/index.m3u8
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31859/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/ehrn357859rjt9a/MLIGS3.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 3",LaLiga TV Hypermotion 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31865/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name=DAZN LA LIGA",DAZN LA LIGA
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png" group-title="Deportivos" tvg-name=M+ LA LIGA",M+ LA LIGA
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31853/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3m9ptCz4/MLIG1.png" group-title="Deportivos" tvg-name=M+ LA LIGA 2",M+ LA LIGA 2
@@ -79,14 +77,26 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31834/index.m3u8
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6071/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2g6DGvZ/CPDEP.png" group-title="Deportivos" tvg-name=M+ Deportes",M+ Deportes
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31830/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2yMZCTm/ARTHUR.png" group-title="Deportivos" tvg-name=M+ Deportes 2",M+ Deportes 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31835/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n18ZtYW/USOP2.png" group-title="Deportivos" tvg-name=M+ Deportes 3",M+ Deportes 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31849/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t2zbTn/USOP3.png" group-title="Deportivos" tvg-name=M+ Deportes 4",M+ Deportes 4
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31850/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/RjJVfKy/USOP11.png" group-title="Deportivos" tvg-name=M+ Deportes 5",M+ Deportes 5
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31851/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name=M+ Deportes 6",M+ Deportes 6
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31874/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png" group-title="Deportivos" tvg-name=M+ Golf",M+ Golf
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31844/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg" group-title="Deportivos" tvg-name=M+ Golf 2",M+ Golf 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31878/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=Win Sports +,Win Sports + CO
 http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=Flow Sport,Flow Sport AR
 http://200.80.230.123:8000/play/a0bf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=SKY SPORT LALIGA,SKY SPORT LALIGA MX
 http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=SKY SPORT LALIGA,SKY SPORT LALIGA MEX
-http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9599
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=DSPORTS,DSPORTS AR
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=ESPN 2,ESPN 2 AR
@@ -101,10 +111,6 @@ http://45.167.255.254:8010/play/a046/index.m3u8
 http://45.167.255.254:8010/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=Azteca Deportes,Azteca Deportes MEX
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=ESPN PREMIUM,ESPN PREMIUM AR
-https://cdnlatam.sysedge-delivery.com/ESPN_PREMIUM_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=TNT Sports,TNT Sports AR
-https://cdnlatam.sysedge-delivery.com/TNT_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=BEIN SPORT EXTRA Ñ,BEIN SPORT EXTRA Ñ ES
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=BEIN SPORT EXTRA Ñ,BEIN SPORT EXTRA Ñ
