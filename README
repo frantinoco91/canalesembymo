@@ -25,6 +25,8 @@ https://jmp2.uk/stvp-ESBD2900001P9
 https://jmp2.uk/stvp-ESBC1700002IM
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-id="" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",Gol
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31863/index.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
@@ -43,6 +45,8 @@ https://jmp2.uk/stvp-ES260001081
 https://jmp2.uk/stvp-ES300029LP
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="Anime" tvg-name="Anime Vision Classics",Anime Vision Classics
 https://jmp2.uk/stvp-ES3000288I
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/TcZgLqR/VAMOSD.png" group-title="Deportivos" tvg-name="M+ Vamos",M+ Vamos
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31867/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6074/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 2",LIGA DE CAMPEONES 2
@@ -59,6 +63,8 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31823/index.m3u8
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31859/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/ehrn357859rjt9a/MLIGS3.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 3",LaLiga TV Hypermotion 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31865/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name=DAZN La Liga",DAZN La Liga
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png" group-title="Deportivos" tvg-name=M+ LA LIGA",M+ LA LIGA
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31853/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3m9ptCz4/MLIG1.png" group-title="Deportivos" tvg-name=M+ LA LIGA 2",M+ LA LIGA 2
@@ -71,6 +77,10 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31822/index.m3u8
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31831/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="Deportivos" tvg-name=DAZN 2",DAZN 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31832/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Deportivos" tvg-name=DAZN 3",DAZN 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31861/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="Deportivos" tvg-name=DAZN 4",DAZN 4
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31862/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name=DAZN F1",DAZN F1
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31834/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name=DAZN F1",DAZN F1 opc2
