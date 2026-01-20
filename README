@@ -9,6 +9,8 @@ https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id=" tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="Generalistas" tvg-name="STAR TVE",STAR TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/960px-Divinity.svg.png" group-title="Generalistas" tvg-name="Divinity",Divinity
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/15246/index.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
@@ -49,6 +51,8 @@ https://jmp2.uk/stvp-ES3000288I
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31867/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6074/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES opc2
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6074/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 2",LIGA DE CAMPEONES 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31860/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 3",LIGA DE CAMPEONES 3
@@ -85,8 +89,12 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31862/index.m3u8
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31834/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name=DAZN F1",DAZN F1 opc2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name=DAZN F1",DAZN F1 opc3
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6071/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2g6DGvZ/CPDEP.png" group-title="Deportivos" tvg-name=M+ Deportes",M+ Deportes
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31830/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2g6DGvZ/CPDEP.png" group-title="Deportivos" tvg-name=M+ Deportes",M+ Deportes opc2
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6077/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2yMZCTm/ARTHUR.png" group-title="Deportivos" tvg-name=M+ Deportes 2",M+ Deportes 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31835/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n18ZtYW/USOP2.png" group-title="Deportivos" tvg-name=M+ Deportes 3",M+ Deportes 3
@@ -99,6 +107,8 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31851/index.m3u8
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31874/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png" group-title="Deportivos" tvg-name=M+ Golf",M+ Golf
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31844/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png" group-title="Deportivos" tvg-name=M+ Golf",M+ Golf opc2
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6075/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg" group-title="Deportivos" tvg-name=M+ Golf 2",M+ Golf 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31878/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=Win Sports +,Win Sports + CO
@@ -159,14 +169,20 @@ https://jmp2.uk/stvp-ESBD800001RJ
 https://jmp2.uk/stvp-ES4100002WB
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20251209T004318SQUARE.png" group-title="Cine" tvg-name=Runtime Accion",Runtime Accion
 https://jmp2.uk/stvp-ESBD80000288
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="Cine" tvg-name=Sundance TV",Sundance TV
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/15247/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="Cine" tvg-name=M+ Estrenos",M+ Estrenos
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6078/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="Cine" tvg-name=M+ Estrenos",M+ Estrenos opc2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31872/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Accion-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name=M+ Accion",M+ Accion
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31868/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Accion-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name=M+ Accion",M+ Accion opc2
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7065/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Comedia-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name=M+ Comedia",M+ Comedia
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31869/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Comedia-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name=M+ Comedia",M+ Comedia opc2
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7066/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/960px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine" tvg-name=M+ Cine Español",M+ Cine Español
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31870/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://brandemia.org/sites/default/files/inline/images/tcm_logo_portada.jpg" group-title="Cine" tvg-name=TCM",TCM
@@ -175,6 +191,8 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31883/index.m3u8
 https://jmp2.uk/stvp-ES2600003UM
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png" group-title="Cine" tvg-name=Accion - Rakuten TV",Accion - Rakuten TV
 https://jmp2.uk/stvp-ES2600004BD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-caza-y-pesca-386.jpg.pagespeed.ic.iNYimfFJLL.jpg" group-title="Documentales" tvg-name=Caza y Pesca",Caza y Pesca
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7346/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="Documentales" tvg-name=Pluto TV Cocina",Pluto TV Cocina
 https://jmp2.uk/stvp-ESAJ3800007PC
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png" group-title="Documentales" tvg-name=Viajes & Sabores",Viajes & Sabores
