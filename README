@@ -68,7 +68,9 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31859/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/ehrn357859rjt9a/MLIGS3.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 3",LaLiga TV Hypermotion 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31865/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name=DAZN La Liga",DAZN La Liga
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31856/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/daznll2.png" group-title="Deportivos" tvg-name=DAZN La Liga",DAZN La Liga 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31855/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png" group-title="Deportivos" tvg-name=M+ LA LIGA",M+ LA LIGA
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31853/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3m9ptCz4/MLIG1.png" group-title="Deportivos" tvg-name=M+ LA LIGA 2",M+ LA LIGA 2
