@@ -3,10 +3,28 @@
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="Generalistas" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="Generalistas" tvg-name="ANTENA 3",ANTENA 3
+http://vipapyenhmw.top:8080/kang/71267133/646
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="Generalistas" tvg-name="CUATRO",CUATRO
+http://vipapyenhmw.top:8080/kang/71267133/651
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="Generalistas" tvg-name="TELECINCO",TELECINCO
 http://vipapyenhmw.top:8080/kang/71267133/647
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="Generalistas" tvg-name="LA SEXTA",LA SEXTA
+http://vipapyenhmw.top:8080/kang/71267133/650
+#EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="Generalistas" tvg-name="FACTORIA DE FICCION",FACTORIA DE FICCION
+http://vipapyenhmw.top:8080/kang/71267133/652
+#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="Generalistas" tvg-name="NEOX",NEOX
+http://vipapyenhmw.top:8080/kang/71267133/755
+#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="Generalistas" tvg-name="NOVA",NOVA
+http://vipapyenhmw.top:8080/kang/71267133/653
+#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
+http://vipapyenhmw.top:8080/kang/71267133/654
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="Generalistas" tvg-name="MEGA",MEGA
+http://vipapyenhmw.top:8080/kang/71267133/753
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
-https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+http://vipapyenhmw.top:8080/kang/71267133/655
+#EXTINF:-1 tvg-id="TEN.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="Generalistas" tvg-name="TEN",TEN
+http://vipapyenhmw.top:8080/kang/71267133/762
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="Informativos" tvg-name="24h",24h 
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id=" tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="Generalistas" tvg-name="STAR TVE",STAR TVE
