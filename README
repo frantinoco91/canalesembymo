@@ -57,10 +57,22 @@ http://vipapyenhmw.top:8080/kang/71267133/632
 http://vipapyenhmw.top:8080/kang/71267133/156835
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6074/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES opc2
+http://vipapyenhmw.top:8080/kang/71267133/97195
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES opc3
+http://vipapyenhmw.top:8080/kang/71267133/265
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES opc4
+http://vipapyenhmw.top:8080/kang/71267133/97196
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES SD
+http://vipapyenhmw.top:8080/kang/71267133/99051
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 2",LIGA DE CAMPEONES 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31860/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 2",LIGA DE CAMPEONES 2 opc2
+http://vipapyenhmw.top:8080/kang/71267133/266
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 3",LIGA DE CAMPEONES 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31820/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 3",LIGA DE CAMPEONES 3 opc2
+http://vipapyenhmw.top:8080/kang/71267133/267
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 4",LIGA DE CAMPEONES 4
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31864/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 5",LIGA DE CAMPEONES 5
@@ -229,7 +241,7 @@ https://jmp2.uk/stvp-ES4100002WB
 https://jmp2.uk/stvp-ESBD80000288
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="Cine" tvg-name=M+ Estrenos",M+ Estrenos
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6078/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="Cine" tvg-name=M+ Estrenos",Movistar Estrenos
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="Cine" tvg-name=M+ Estrenos",M+ Estrenos opc2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31872/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Accion-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name=M+ Accion",M+ Accion
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31868/index.m3u8
