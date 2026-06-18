@@ -11,6 +11,8 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte opc2
+http://vipapyenhmw.top:8080/kang/71267133/726
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="Deportivos" tvg-name="La Liga Inside",La Liga Inside
@@ -24,9 +26,11 @@ https://jmp2.uk/stvp-ESBD2900001P9
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png" group-title="Deportivos" tvg-name="Television Consciente",Television Consciente
 https://jmp2.uk/stvp-ESBC1700002IM
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+http://vipapyenhmw.top:8080/kang/71267133/724
 #EXTINF:-1 tvg-id="" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",Gol
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31863/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",Gol opc2
+http://vipapyenhmw.top:8080/kang/71267133/633
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
@@ -159,6 +163,8 @@ http://vipapyenhmw.top:8080/kang/71267133/292
 http://vipapyenhmw.top:8080/kang/71267133/293
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png" group-title="Deportivos" tvg-name=M+ Golf",M+ Golf
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31844/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png" group-title="Deportivos" tvg-name=M+ Golf",M+ Golf opc2
+http://vipapyenhmw.top:8080/kang/71267133/285
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg" group-title="Deportivos" tvg-name=M+ Golf 2",M+ Golf 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31878/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=Win Sports +,Win Sports + CO
@@ -170,6 +176,9 @@ http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=DSPORTS,DSPORTS AR
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=ESPN 2,ESPN 2 AR
+http://vipapyenhmw.top:8080/kang/71267133/280
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="Deportivos en latino" tvg-name=ESPN DEPORTES
+,ESPN DEPORTES
 http://181.205.130.194:4000/play/a07i
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name=FOX MX,FOX MX
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
