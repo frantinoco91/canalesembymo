@@ -3,6 +3,8 @@
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="Generalistas" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="Generalistas" tvg-name="TELECINCO",TELECINCO
+http://vipapyenhmw.top:8080/kang/71267133/647
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="Informativos" tvg-name="24h",24h 
@@ -25,17 +27,17 @@ https://jmp2.uk/stvp-ES3400002PY
 https://jmp2.uk/stvp-ESBD2900001P9
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png" group-title="Deportivos" tvg-name="Television Consciente",Television Consciente
 https://jmp2.uk/stvp-ESBC1700002IM
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
 http://vipapyenhmw.top:8080/kang/71267133/724
-#EXTINF:-1 tvg-id="" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",Gol
+#EXTINF:-1 tvg-id="GOL.es" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",Gol
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31863/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",GOL PLAY
+#EXTINF:-1 tvg-id="GOL.es" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",GOL PLAY
 http://vipapyenhmw.top:8080/kang/71267133/633
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Deportivos" tvg-name="ONETORO",ONETORO
+#EXTINF:-1 tvg-id="Toros.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Deportivos" tvg-name="ONETORO",ONETORO
 http://vipapyenhmw.top:8080/kang/71267133/631
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Deportivos" tvg-name="ONETORO",ONETORO opc2
+#EXTINF:-1 tvg-id="Toros.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Deportivos" tvg-name="ONETORO",ONETORO opc2
 http://vipapyenhmw.top:8080/kang/71267133/38816
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="Deportivos" tvg-name="TOROLE TV",TOROLE TV
+#EXTINF:-1 tvg-id="El Toro TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="Deportivos" tvg-name="TOROLE TV",TOROLE TV
 http://vipapyenhmw.top:8080/kang/71267133/37678
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
@@ -43,25 +45,25 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 http://vipapyenhmw.top:8080/kang/71267133/638
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.jpg" group-title="Infantiles" tvg-name="Baby TV",Baby TV
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-logo="https://i.pinimg.com/736x/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.jpg" group-title="Infantiles" tvg-name="Baby TV",Baby TV
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31838/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.jpg" group-title="Infantiles" tvg-name="Baby TV",Baby TV opc2
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-logo="https://i.pinimg.com/736x/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.jpg" group-title="Infantiles" tvg-name="Baby TV",Baby TV opc2
 http://vipapyenhmw.top:8080/kang/71267133/636
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Infantiles" tvg-name="Boing",Boing
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Infantiles" tvg-name="Boing",Boing
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31839/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Infantiles" tvg-name="Boing",Boing opc2
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Infantiles" tvg-name="Boing",Boing opc2
 http://vipapyenhmw.top:8080/kang/71267133/637
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Infantiles" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Infantiles" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31840/index.m3u8
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Infantiles" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL opc2
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Infantiles" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL opc2
 http://vipapyenhmw.top:8080/kang/71267133/640
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Infantiles" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL opc3
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Infantiles" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL opc3
 http://vipapyenhmw.top:8080/kang/71267133/641
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="Infantiles" tvg-name="DREAMWORKS",DREAMWORKS
+#EXTINF:-1 tvg-id="Dreamworks" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="Infantiles" tvg-name="DREAMWORKS",DREAMWORKS
 http://vipapyenhmw.top:8080/kang/71267133/643
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="Infantiles" tvg-name="NICK JR",NICK JR
+#EXTINF:-1 tvg-id="NickJr.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="Infantiles" tvg-name="NICK JR",NICK JR
 http://vipapyenhmw.top:8080/kang/71267133/644
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="Infantiles" tvg-name="NICKELODEON",NICKELODEON
+#EXTINF:-1 tvg-id="es.Nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="Infantiles" tvg-name="NICKELODEON",NICKELODEON
 http://vipapyenhmw.top:8080/kang/71267133/645
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="Infantiles" tvg-name="Pluto TV Kids",Pluto TV Kids
 https://jmp2.uk/stvp-ESAJ38000046O
@@ -99,15 +101,15 @@ http://vipapyenhmw.top:8080/kang/71267133/267
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31864/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 5",LIGA DE CAMPEONES 5
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31821/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/1168px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion",LaLiga TV Hypermotion
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/1168px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion",LaLiga TV Hypermotion
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31823/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/1168px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion",LaLiga TV Hypermotion opc2
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/1168px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion",LaLiga TV Hypermotion opc2
 http://vipapyenhmw.top:8080/kang/71267133/246
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/3i32agnww8laeu4/MLIGS2.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 2
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/3i32agnww8laeu4/MLIGS2.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31859/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/3i32agnww8laeu4/MLIGS2.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 2",La Liga Hypermotion 2
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/3i32agnww8laeu4/MLIGS2.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 2",La Liga Hypermotion 2
 http://vipapyenhmw.top:8080/kang/71267133/634
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/ehrn357859rjt9a/MLIGS3.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 3",LaLiga TV Hypermotion 3
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/ehrn357859rjt9a/MLIGS3.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 3",LaLiga TV Hypermotion 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31865/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name=DAZN La Liga",DAZN La Liga
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31856/index.m3u8
