@@ -11,7 +11,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte opc2
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte-opc2
 http://vipapyenhmw.top:8080/kang/71267133/726
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
