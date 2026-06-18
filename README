@@ -99,12 +99,22 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31858/index.m3u8
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31822/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="Deportivos" tvg-name=DAZN 1",DAZN 1
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31831/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="Deportivos" tvg-name=DAZN 1",DAZN 1 opc2
+http://vipapyenhmw.top:8080/kang/71267133/247
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="Deportivos" tvg-name=DAZN 1",DAZN 1 opc3
+http://vipapyenhmw.top:8080/kang/71267133/128935
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="Deportivos" tvg-name=DAZN 2",DAZN 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31832/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="Deportivos" tvg-name=DAZN 2",DAZN 2 opc2
+http://vipapyenhmw.top:8080/kang/71267133/248
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Deportivos" tvg-name=DAZN 3",DAZN 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31861/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Deportivos" tvg-name=DAZN 3",DAZN 3 opc2
+http://vipapyenhmw.top:8080/kang/71267133/249
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="Deportivos" tvg-name=DAZN 4",DAZN 4
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31862/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="Deportivos" tvg-name=DAZN 4",DAZN 4 opc2
+http://vipapyenhmw.top:8080/kang/71267133/250
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name=DAZN F1",DAZN F1
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31834/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name=DAZN F1",DAZN F1 opc2
