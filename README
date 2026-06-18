@@ -40,12 +40,18 @@ http://vipapyenhmw.top:8080/kang/71267133/38816
 http://vipapyenhmw.top:8080/kang/71267133/37678
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan opc2
+http://vipapyenhmw.top:8080/kang/71267133/638
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.jpg" group-title="Infantiles" tvg-name="Baby TV",Baby TV
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31838/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.jpg" group-title="Infantiles" tvg-name="Baby TV",Baby TV opc2
+http://vipapyenhmw.top:8080/kang/71267133/636
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Infantiles" tvg-name="Boing",Boing
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31839/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Infantiles" tvg-name="Boing",Boing opc2
+http://vipapyenhmw.top:8080/kang/71267133/637
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/59/8f/fd/598ffd47063dc8273ef41285a9942686.jpg" group-title="Infantiles" tvg-name="Disney Jr.",Disney Jr.
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31840/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="Infantiles" tvg-name="Pluto TV Kids",Pluto TV Kids
