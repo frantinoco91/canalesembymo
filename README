@@ -287,6 +287,8 @@ https://jmp2.uk/stvp-ESBD80000288
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6078/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="Cine" tvg-name="M+ Estrenos",M+ Estrenos opc2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31872/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="Cine" tvg-name="M+ Estrenos",M+ Estrenos opc3
+http://vipapyenhmw.top:8080/kang/71267133/132309
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Accion-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name="M+ Accion",M+ Accion
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31868/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Accion-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name="M+ Accion",M+ Accion opc2
@@ -305,6 +307,10 @@ http://vipapyenhmw.top:8080/kang/71267133/87106
 http://vipapyenhmw.top:8080/kang/71267133/767
 #EXTINF:-1 tvg-id="Hollywood" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="Cine" tvg-name="HOLLYWOOD",HOLLYWOOD
 http://vipapyenhmw.top:8080/kang/71267133/665
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Cine" tvg-name="AXN MOVIES",AXN MOVIES
+http://vipapyenhmw.top:8080/kang/71267133/736
+#EXTINF:-1 tvg-id="Dark.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="Cine" tvg-name="DARK",DARK
+http://vipapyenhmw.top:8080/kang/71267133/782
 #EXTINF:-1 tvg-id="Somos.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="Cine" tvg-name="SOMOS",SOMOS
 http://vipapyenhmw.top:8080/kang/71267133/667
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/960px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine" tvg-name="M+ Cine Español",M+ Cine Español
@@ -313,8 +319,10 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31870/index.m3u8
 http://vipapyenhmw.top:8080/kang/71267133/658
 #EXTINF:-1 tvg-id="M+ Clasicos" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="Cine" tvg-name="M+ CLASICOS",M+ CLASICOS
 http://vipapyenhmw.top:8080/kang/71267133/659
-#EXTINF:-1 tvg-id="" tvg-logo="https://brandemia.org/sites/default/files/inline/images/tcm_logo_portada.jpg" group-title="Cine" tvg-name="TCM",TCM
+#EXTINF:-1 tvg-id="es.TCM" tvg-logo="https://brandemia.org/sites/default/files/inline/images/tcm_logo_portada.jpg" group-title="Cine" tvg-name="TCM",TCM
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31883/index.m3u8
+#EXTINF:-1 tvg-id="es.TCM" tvg-logo="https://brandemia.org/sites/default/files/inline/images/tcm_logo_portada.jpg" group-title="Cine" tvg-name="TCM",TCM opc2
+http://vipapyenhmw.top:8080/kang/71267133/669
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" group-title="Cine" tvg-name="Peliculas de Drama - Rakuten TV",Peliculas de Drama - Rakuten TV
 https://jmp2.uk/stvp-ES2600003UM
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png" group-title="Cine" tvg-name="Accion - Rakuten TV",Accion - Rakuten TV
@@ -341,16 +349,24 @@ https://jmp2.uk/stvp-ESBA330004121
 https://lifestyle-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6232&ads.rtv_channel_name=lifestyle-rakuten-tv_es&ads.rtv_content_id=6232&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ae4eeb86-bfe1-41d0-a7e1-7d9c53a2bf97&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6232&publishing_platform_id=5&tenant_identifier=rtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg" group-title="Documentales" tvg-name="Travelxp",Travelxp
 https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=outdoors%2Chobbies&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=5756&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=4b6b1425-7db0-47ad-8b30-f5c041dab12e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1613
-#EXTINF:-1 tvg-id="" tvg-logo=""https://www.calle13.es/sites/default/files/logo-calle3_16x9_v01.jpg" group-title="Series" tvg-name="Calle 13",Calle 13
+#EXTINF:-1 tvg-id="Calle13.es" tvg-logo=""https://www.calle13.es/sites/default/files/logo-calle3_16x9_v01.jpg" group-title="Series" tvg-name="Calle 13",Calle 13
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31836/index.m3u8
+#EXTINF:-1 tvg-id="Calle13.es" tvg-logo=""https://www.calle13.es/sites/default/files/logo-calle3_16x9_v01.jpg" group-title="Series" tvg-name="Calle 13",Calle 13 opc2
+http://vipapyenhmw.top:8080/kang/71267133/740
 #EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/c/cd/Warner_TV_Poland_Logo.png" group-title="Series" tvg-name="Warner TV",Warner TV
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31873/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=""https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="Series" tvg-name="AXN",AXN
+#EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/c/cd/Warner_TV_Poland_Logo.png" group-title="Series" tvg-name="Warner TV",Warner TV opc2
+http://vipapyenhmw.top:8080/kang/71267133/668
+#EXTINF:-1 tvg-id="AXN.es" tvg-logo=""https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="Series" tvg-name="AXN",AXN
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31877/index.m3u8
+#EXTINF:-1 tvg-id="AXN.es" tvg-logo=""https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="Series" tvg-name="AXN",AXN
+http://vipapyenhmw.top:8080/kang/71267133/735
 #EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Series" tvg-name="SYFY",SYFY
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31880/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="Series" tvg-name="Atreseries",Atreseries
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31882/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="Series" tvg-name="Atreseries",Atreseries opc2
+http://vipapyenhmw.top:8080/kang/71267133/800
 #EXTINF:-1 tvg-id="" tvg-logo=""https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png" group-title="Series" tvg-name="BBC Series",BBC Series
 https://jmp2.uk/stvp-ES2900001DQ
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Documentales" tvg-name="Crimen - Rakuten TV",Crimen - Rakuten TV
