@@ -11,7 +11,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte opc2
 http://vipapyenhmw.top:8080/kang/71267133/726
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
@@ -29,7 +29,7 @@ https://jmp2.uk/stvp-ESBC1700002IM
 http://vipapyenhmw.top:8080/kang/71267133/724
 #EXTINF:-1 tvg-id="" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",Gol
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31863/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",Gol
+#EXTINF:-1 tvg-id="" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",Gol opc2
 http://vipapyenhmw.top:8080/kang/71267133/633
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
