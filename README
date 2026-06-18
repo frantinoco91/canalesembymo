@@ -52,8 +52,18 @@ http://vipapyenhmw.top:8080/kang/71267133/636
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31839/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Infantiles" tvg-name="Boing",Boing opc2
 http://vipapyenhmw.top:8080/kang/71267133/637
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/59/8f/fd/598ffd47063dc8273ef41285a9942686.jpg" group-title="Infantiles" tvg-name="Disney Jr.",Disney Jr.
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Infantiles" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31840/index.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Infantiles" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL opc2
+http://vipapyenhmw.top:8080/kang/71267133/640
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Infantiles" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL opc3
+http://vipapyenhmw.top:8080/kang/71267133/641
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="Infantiles" tvg-name="DREAMWORKS",DREAMWORKS
+http://vipapyenhmw.top:8080/kang/71267133/643
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="Infantiles" tvg-name="NICK JR",NICK JR
+http://vipapyenhmw.top:8080/kang/71267133/644
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="Infantiles" tvg-name="NICKELODEON",NICKELODEON
+http://vipapyenhmw.top:8080/kang/71267133/645
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="Infantiles" tvg-name="Pluto TV Kids",Pluto TV Kids
 https://jmp2.uk/stvp-ESAJ38000046O
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png" group-title="Infantiles" tvg-name="En Familia - Rakuten TV",En Familia - Rakuten TV
