@@ -23,6 +23,8 @@ http://vipapyenhmw.top:8080/kang/71267133/654
 http://vipapyenhmw.top:8080/kang/71267133/753
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="Generalistas" tvg-name="BE MAD"BE MAD
 http://vipapyenhmw.top:8080/kang/71267133/737
+#EXTINF:-1 tvg-id="Dmax.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="Generalistas" tvg-name="DMAX",DMAX
+http://vipapyenhmw.top:8080/kang/71267133/709
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 http://vipapyenhmw.top:8080/kang/71267133/655
 #EXTINF:-1 tvg-id="TEN.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="Generalistas" tvg-name="TEN",TEN
@@ -375,10 +377,28 @@ http://vipapyenhmw.top:8080/kang/71267133/87108
 http://vipapyenhmw.top:8080/kang/71267133/705
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="Documentales" tvg-name="AMC CRIME",AMC CRIME
 http://vipapyenhmw.top:8080/kang/71267133/707
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="Documentales" tvg-name="AMC BREAK",AMC BREAK
+http://vipapyenhmw.top:8080/kang/71267133/778
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="Documentales" tvg-name="CAZA Y PESCA",CAZA Y PESCA
 http://vipapyenhmw.top:8080/kang/71267133/706
+#EXTINF:-1 tvg-id="Cazavisión" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="Documentales" tvg-name="CAZAVISION",CAZAVISION
+http://vipapyenhmw.top:8080/kang/71267133/827
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="Documentales" tvg-name="DISCOVERY",DISCOVERY
 http://vipapyenhmw.top:8080/kang/71267133/708
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="Documentales" tvg-name="ODISEA",ODISEA
+http://vipapyenhmw.top:8080/kang/71267133/710
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Documentales" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
+http://vipapyenhmw.top:8080/kang/71267133/711
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Documentales" tvg-name="NAT GEO WILD",NAT GEO WILD
+http://vipapyenhmw.top:8080/kang/71267133/712
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="Documentales" tvg-name="HISTORIA",HISTORIA
+http://vipapyenhmw.top:8080/kang/71267133/713
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="Documentales" tvg-name="IBERALIA TV",IBERALIA TV
+http://vipapyenhmw.top:8080/kang/71267133/714
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="Documentales" tvg-name="IBERALIA 100% CAZA",IBERALIA 100% CAZA
+http://vipapyenhmw.top:8080/kang/71267133/99473
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="Documentales" tvg-name="IBERALIA 100% PESCA",IBERALIA 100% PESCA
+http://vipapyenhmw.top:8080/kang/71267133/99474
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="Entretenimiento" tvg-name="MOVISTAR PLUS+",MOVISTAR PLUS+
 http://vipapyenhmw.top:8080/kang/71267133/87109
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Documentales" tvg-name="Crimen - Rakuten TV",Crimen - Rakuten TV
@@ -389,6 +409,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=927&ads_content_categories=IAB1&ads_content_genre=entertainment%2Chistory&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6179&ads_rtv_content_language=es&ads_streaming_id=9ef2e286-2727-4b7d-8ed7-9db7e683aaae&ads_tcs_channel_id=927&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="Entretenimiento" tvg-name="M+ ORIGINALES",M+ ORIGINALES
 http://vipapyenhmw.top:8080/kang/71267133/87107
+#EXTINF:-1 tvg-id="MTVEsp.sp" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV.png" group-title="Entretenimiento" tvg-name="MTV",MTV
+http://vipapyenhmw.top:8080/kang/71267133/719
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png" group-title="Entretenimiento" tvg-name="MTV Cribs",MTV Cribs
 https://jmp2.uk/stvp-ESAJ3800006TT
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png" group-title="Entretenimiento" tvg-name="MTV Originals",MTV Originals
@@ -397,6 +419,10 @@ https://jmp2.uk/stvp-ESAJ380000226
 https://jmp2.uk/stvp-ESAJ3800003LX
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento" tvg-name="Comedia Made in Spain",Comedia Made in Spain
 https://jmp2.uk/stvp-ESAJ3800005C5
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="Musica" tvg-name="MEZZO LIVE",MEZZO LIVE
+http://vipapyenhmw.top:8080/kang/71267133/716
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="Musica" tvg-name="MEZZO",MEZZO
+http://vipapyenhmw.top:8080/kang/71267133/34145
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png" group-title="Musica" tvg-name="Vevo Latino",Vevo Latino
 https://jmp2.uk/stvp-ESBC2100002LV
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png" group-title="Musica" tvg-name="Vevo Retro",Vevo Retro
