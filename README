@@ -25,6 +25,10 @@ http://vipapyenhmw.top:8080/kang/71267133/753
 http://vipapyenhmw.top:8080/kang/71267133/737
 #EXTINF:-1 tvg-id="Dmax.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="Generalistas" tvg-name="DMAX",DMAX
 http://vipapyenhmw.top:8080/kang/71267133/709
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY
+http://vipapyenhmw.top:8080/kang/71267133/747
+#EXTINF:-1 tvg-id="DKISS.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="Generalistas" tvg-name="DKISS",DKISS
+http://vipapyenhmw.top:8080/kang/71267133/748
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 http://vipapyenhmw.top:8080/kang/71267133/655
 #EXTINF:-1 tvg-id="TEN.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="Generalistas" tvg-name="TEN",TEN
@@ -325,12 +329,18 @@ http://vipapyenhmw.top:8080/kang/71267133/659
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31883/index.m3u8
 #EXTINF:-1 tvg-id="es.TCM" tvg-logo="https://brandemia.org/sites/default/files/inline/images/tcm_logo_portada.jpg" group-title="Cine" tvg-name="TCM",TCM opc2
 http://vipapyenhmw.top:8080/kang/71267133/669
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="Cine" tvg-name="AMC",AMC
+http://vipapyenhmw.top:8080/kang/71267133/732
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="Cine" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
+http://vipapyenhmw.top:8080/kang/71267133/745
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" group-title="Cine" tvg-name="Peliculas de Drama - Rakuten TV",Peliculas de Drama - Rakuten TV
 https://jmp2.uk/stvp-ES2600003UM
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png" group-title="Cine" tvg-name="Accion - Rakuten TV",Accion - Rakuten TV
 https://jmp2.uk/stvp-ES2600004BD
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="Documentales" tvg-name="Pluto TV Cocina",Pluto TV Cocina
 https://jmp2.uk/stvp-ESAJ3800007PC
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA
+http://vipapyenhmw.top:8080/kang/71267133/742
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png" group-title="Documentales" tvg-name="Viajes & Sabores",Viajes & Sabores
 https://jmp2.uk/stvp-ES300033TI
 #EXTINF:-1 tvg-id="" tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260113T032317SQUARE.png" group-title="Documentales" tvg-name="BBC Earth",BBC Earth
@@ -365,6 +375,10 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31877/index.m3u8
 http://vipapyenhmw.top:8080/kang/71267133/735
 #EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Series" tvg-name="SYFY",SYFY
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31880/index.m3u8
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="Series" tvg-name="COSMO",COSMO
+http://vipapyenhmw.top:8080/kang/71267133/746
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="Series" tvg-name="STAR CHANNEL",STAR CHANNEL
+http://vipapyenhmw.top:8080/kang/71267133/752
 #EXTINF:-1 tvg-id="" tvg-logo=""https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="Series" tvg-name="Atreseries",Atreseries
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31882/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="Series" tvg-name="Atreseries",Atreseries opc2
