@@ -369,6 +369,18 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31882/index.m3u8
 http://vipapyenhmw.top:8080/kang/71267133/800
 #EXTINF:-1 tvg-id="" tvg-logo=""https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png" group-title="Series" tvg-name="BBC Series",BBC Series
 https://jmp2.uk/stvp-ES2900001DQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="Documentales" tvg-name="M+ DOCUMENTALES",M+ DOCUMENTALES
+http://vipapyenhmw.top:8080/kang/71267133/87108
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMC_Living.svg/3840px-AMC_Living.svg.png" group-title="Documentales" tvg-name="AMC LIVING",AMC LIVING
+http://vipapyenhmw.top:8080/kang/71267133/705
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="Documentales" tvg-name="AMC CRIME",AMC CRIME
+http://vipapyenhmw.top:8080/kang/71267133/707
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="Documentales" tvg-name="CAZA Y PESCA",CAZA Y PESCA
+http://vipapyenhmw.top:8080/kang/71267133/706
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="Documentales" tvg-name="DISCOVERY",DISCOVERY
+http://vipapyenhmw.top:8080/kang/71267133/708
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="Entretenimiento" tvg-name="MOVISTAR PLUS+",MOVISTAR PLUS+
+http://vipapyenhmw.top:8080/kang/71267133/87109
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Documentales" tvg-name="Crimen - Rakuten TV",Crimen - Rakuten TV
 https://jmp2.uk/stvp-ES2600005G9
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg" group-title="Documentales" tvg-name="Todo Crimen",Todo Crimen
