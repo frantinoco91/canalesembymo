@@ -59,6 +59,12 @@ http://vipapyenhmw.top:8080/kang/71267133/724
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31863/index.m3u8
 #EXTINF:-1 tvg-id="GOL.es" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",GOL PLAY
 http://vipapyenhmw.top:8080/kang/71267133/633
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/M_FANZONE.png" group-title="Deportivos" tvg-name="M+ FANZONE HD",M+ FANZONE HD
+http://vipapyenhmw.top:8080/kang/71267133/158458
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/M_FANZONE.png" group-title="Deportivos" tvg-name="M+ FANZONE FHD",M+ FANZONE FHD
+http://vipapyenhmw.top:8080/kang/71267133/158457
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/M_FANZONE.png" group-title="Deportivos" tvg-name="M+ FANZONE SD",M+ FANZONE SD
+http://vipapyenhmw.top:8080/kang/71267133/158459
 #EXTINF:-1 tvg-id="Toros.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Deportivos" tvg-name="ONETORO",ONETORO
 http://vipapyenhmw.top:8080/kang/71267133/631
 #EXTINF:-1 tvg-id="Toros.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Deportivos" tvg-name="ONETORO",ONETORO opc2
