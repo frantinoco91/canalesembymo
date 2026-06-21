@@ -249,8 +249,12 @@ http://vipapyenhmw.top:8080/kang/71267133/285
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31878/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL HD",DAZN MUNDIAL HD
 http://vipapyenhmw.top:8080/kang/71267133/158461
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL HD",DAZN MUNDIAL HD opc2
+http://vipapyenhmw.top:8080/kang/71267133/158472
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL SD",DAZN MUNDIAL SD
 http://vipapyenhmw.top:8080/kang/71267133/158462
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL SD",DAZN MUNDIAL SD opc2
+http://vipapyenhmw.top:8080/kang/71267133/158473
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="Win Sports +",Win Sports +
 http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="Flow Sport",Flow Sport
