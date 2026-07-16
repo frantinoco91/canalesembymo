@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="Generalistas" tvg-name="La 2",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="Generalistas" tvg-name="ANTENA 3",ANTENA 3
 http://vipapyenhmw.top:8080/kang/71267133/646
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="Generalistas" tvg-name="CUATRO",CUATRO
@@ -38,9 +38,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id=" tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="Generalistas" tvg-name="STAR TVE",STAR TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte opc2
-http://vipapyenhmw.top:8080/kang/71267133/726
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/12395
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="Deportivos" tvg-name="La Liga Inside",La Liga Inside
@@ -54,7 +52,7 @@ https://jmp2.uk/stvp-ESBD2900001P9
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png" group-title="Deportivos" tvg-name="Television Consciente",Television Consciente
 https://jmp2.uk/stvp-ESBC1700002IM
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
-http://vipapyenhmw.top:8080/kang/71267133/724
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="GOL.es" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",Gol
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31863/index.m3u8
 #EXTINF:-1 tvg-id="GOL.es" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Deportivos" tvg-name="Gol",GOL PLAY
@@ -73,8 +71,6 @@ http://vipapyenhmw.top:8080/kang/71267133/38816
 http://vipapyenhmw.top:8080/kang/71267133/37678
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan opc2
-http://vipapyenhmw.top:8080/kang/71267133/638
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="BabyTV.es" tvg-logo="https://i.pinimg.com/736x/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.jpg" group-title="Infantiles" tvg-name="Baby TV",Baby TV
