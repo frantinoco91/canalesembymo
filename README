@@ -30,7 +30,7 @@ http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/236495
 #EXTINF:-1 tvg-id="DKISS.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="Generalistas" tvg-name="DKISS",DKISS
 http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/236496
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
-http://vipapyenhmw.top:8080/kang/71267133/655
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/236520
 #EXTINF:-1 tvg-id="TEN.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="Generalistas" tvg-name="TEN",TEN
 http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/236520
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="Informativos" tvg-name="24h",24h 
@@ -85,164 +85,72 @@ https://jmp2.uk/stvp-ES300029LP
 https://jmp2.uk/stvp-ES3000288I
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/TcZgLqR/VAMOSD.png" group-title="Deportivos" tvg-name="M+ Vamos",M+ Vamos
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31867/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="Deportivos" tvg-name="M+ Vamos",Movistar Vamos
-http://vipapyenhmw.top:8080/kang/71267133/632
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/TcZgLqR/VAMOSD.png" group-title="Deportivos" tvg-name="M+ Vamos 2",M+ Vamos 2
-http://vipapyenhmw.top:8080/kang/71267133/156835
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
 http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/12459
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 2",LIGA DE CAMPEONES 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31860/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 2",LIGA DE CAMPEONES 2 opc2
-http://vipapyenhmw.top:8080/kang/71267133/266
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 3",LIGA DE CAMPEONES 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31820/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 3",LIGA DE CAMPEONES 3 opc2
-http://vipapyenhmw.top:8080/kang/71267133/267
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 4",LIGA DE CAMPEONES 4
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31864/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 5",LIGA DE CAMPEONES 5
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31821/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpxeLu4ay0DPC2rzB3dPyWzqzaKGy5xTWx5HfydRMmA&s=10" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 6",LIGA DE CAMPEONES 6
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/60301
+#EXTINF:-1 tvg-id="" tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=72&h=54&tok=046606&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc7.png" group-title="Deportivos" tvg-name="LIGA DE CAMPEONES 7",LIGA DE CAMPEONES 7
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/60303
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/1168px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion",LaLiga TV Hypermotion
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31823/index.m3u8
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/1168px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion",LaLiga TV Hypermotion opc2
-http://vipapyenhmw.top:8080/kang/71267133/246
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/3i32agnww8laeu4/MLIGS2.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31859/index.m3u8
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/3i32agnww8laeu4/MLIGS2.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 2",La Liga Hypermotion 2
-http://vipapyenhmw.top:8080/kang/71267133/634
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/ehrn357859rjt9a/MLIGS3.png" group-title="Deportivos" tvg-name="LaLiga TV Hypermotion 3",LaLiga TV Hypermotion 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31865/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name="DAZN La Liga",DAZN La Liga
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31856/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name="DAZN La Liga",DAZN La Liga HD
-http://vipapyenhmw.top:8080/kang/71267133/243
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name="DAZN La Liga",DAZN La Liga HD opc2
-http://vipapyenhmw.top:8080/kang/71267133/244
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name="DAZN La Liga",DAZN La Liga HD opc3
-http://vipapyenhmw.top:8080/kang/71267133/147167
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name="DAZN La Liga",DAZN La Liga FHD
-http://vipapyenhmw.top:8080/kang/71267133/97138
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png" group-title="Deportivos" tvg-name="DAZN La Liga",DAZN La Liga FHD opc2
-http://vipapyenhmw.top:8080/kang/71267133/97193
 #EXTINF:-1 tvg-id="" tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/daznll2.png" group-title="Deportivos" tvg-name="DAZN La Liga",DAZN La Liga 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31855/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/daznll2.png" group-title="Deportivos" tvg-name="DAZN La Liga",DAZN La Liga 2 opc2
-http://vipapyenhmw.top:8080/kang/71267133/128942
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png" group-title="Deportivos" tvg-name="M+ LA LIGA",M+ LA LIGA
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31853/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png" group-title="Deportivos" tvg-name="M+ LA LIGA",M+ LA LIGA opc2
-http://vipapyenhmw.top:8080/kang/71267133/132295
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png" group-title="Deportivos" tvg-name="M+ LA LIGA",M+ LA LIGA FHD
-http://vipapyenhmw.top:8080/kang/71267133/254
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png" group-title="Deportivos" tvg-name="M+ LA LIGA",M+ LA LIGA FHD opc2
-http://vipapyenhmw.top:8080/kang/71267133/97192
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3m9ptCz4/MLIG1.png" group-title="Deportivos" tvg-name="M+ LA LIGA 2",M+ LA LIGA 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31854/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3m9ptCz4/MLIG1.png" group-title="Deportivos" tvg-name="M+ LA LIGA 2",M+ LA LIGA 2 opc2
-http://vipapyenhmw.top:8080/kang/71267133/255
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/mV2cQ3TZ/MLIG2.png" group-title="Deportivos" tvg-name="M+ LA LIGA 3",M+ LA LIGA 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31858/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/vCgBHRBf/MLIG3.png" group-title="Deportivos" tvg-name="M+ LA LIGA 4",M+ LA LIGA 4
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31822/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="Deportivos" tvg-name="DAZN 1",DAZN 1
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31831/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="Deportivos" tvg-name="DAZN 1",DAZN 1 HD
-http://vipapyenhmw.top:8080/kang/71267133/132300
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="Deportivos" tvg-name="DAZN 1",DAZN 1 opc2
-http://vipapyenhmw.top:8080/kang/71267133/247
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="Deportivos" tvg-name="DAZN 1",DAZN 1 opc3
-http://vipapyenhmw.top:8080/kang/71267133/128935
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="Deportivos" tvg-name="DAZN 2",DAZN 2
-http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31832/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="Deportivos" tvg-name="DAZN 2",DAZN 2 opc2
-http://vipapyenhmw.top:8080/kang/71267133/248
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31832/index.m3u88
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Deportivos" tvg-name="DAZN 3",DAZN 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31861/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Deportivos" tvg-name="DAZN 3",DAZN 3 opc2
-http://vipapyenhmw.top:8080/kang/71267133/249
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="Deportivos" tvg-name="DAZN 4",DAZN 4
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31862/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="Deportivos" tvg-name="DAZN 4",DAZN 4 opc2
-http://vipapyenhmw.top:8080/kang/71267133/250
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name="DAZN F1",DAZN F1
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31834/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name="DAZN F1",DAZN F1 opc2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6071/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name="DAZN F1",DAZN F1 opc3
-http://vipapyenhmw.top:8080/kang/71267133/56469
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name="DAZN F1",DAZN F1 opc4
-http://vipapyenhmw.top:8080/kang/71267133/97147
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png" group-title="Deportivos" tvg-name="DAZN F1",DAZN F1 opc5
-http://vipapyenhmw.top:8080/kang/71267133/251
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_MOTOGP.png" group-title="Deportivos" tvg-name="DAZN MOTOGP",DAZN MOTOGP
-http://vipapyenhmw.top:8080/kang/71267133/154467
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/es/UFC_FIGHT_PASS.png" group-title="Deportivos" tvg-name="UFC FIGHT PASS",UFC FIGHT PASS
-http://vipapyenhmw.top:8080/kang/71267133/129980
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2g6DGvZ/CPDEP.png" group-title="Deportivos" tvg-name="M+ Deportes",M+ Deportes
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31830/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2g6DGvZ/CPDEP.png" group-title="Deportivos" tvg-name="M+ Deportes",M+ Deportes opc2
-http://vipapyenhmw.top:8080/kang/71267133/286
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2yMZCTm/ARTHUR.png" group-title="Deportivos" tvg-name="M+ Deportes 2",M+ Deportes 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31835/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2yMZCTm/ARTHUR.png" group-title="Deportivos" tvg-name="M+ Deportes 2",M+ Deportes 2 opc2
-http://vipapyenhmw.top:8080/kang/71267133/288
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n18ZtYW/USOP2.png" group-title="Deportivos" tvg-name="M+ Deportes 3",M+ Deportes 3
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31849/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n18ZtYW/USOP2.png" group-title="Deportivos" tvg-name="M+ Deportes 3",M+ Deportes 3 opc2
-http://vipapyenhmw.top:8080/kang/71267133/289
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t2zbTn/USOP3.png" group-title="Deportivos" tvg-name="M+ Deportes 4",M+ Deportes 4
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31850/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t2zbTn/USOP3.png" group-title="Deportivos" tvg-name="M+ Deportes 4",M+ Deportes 4 opc2
-http://vipapyenhmw.top:8080/kang/71267133/290
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/RjJVfKy/USOP11.png" group-title="Deportivos" tvg-name="M+ Deportes 5",M+ Deportes 5
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31851/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/RjJVfKy/USOP11.png" group-title="Deportivos" tvg-name="M+ Deportes 5",M+ Deportes 5 opc2
-http://vipapyenhmw.top:8080/kang/71267133/291
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="Deportivos" tvg-name="M+ Deportes 6",M+ Deportes 6
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31874/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="Deportivos" tvg-name="M+ Deportes 6",M+ Deportes 6 opc2
-http://vipapyenhmw.top:8080/kang/71267133/292
-#XTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="Deportivos" tvg-name="M+ Deportes 7",M+ Deportes 7
-http://vipapyenhmw.top:8080/kang/71267133/293
 #EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png" group-title="Deportivos" tvg-name="M+ Golf",M+ Golf
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31844/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png" group-title="Deportivos" tvg-name="M+ Golf",M+ Golf opc2
-http://vipapyenhmw.top:8080/kang/71267133/285
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg" group-title="Deportivos" tvg-name="M+ Golf 2",M+ Golf 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31878/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL HD",DAZN MUNDIAL HD
-http://vipapyenhmw.top:8080/kang/71267133/158461
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL HD",DAZN MUNDIAL HD opc2
-http://vipapyenhmw.top:8080/kang/71267133/158472
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL SD",DAZN MUNDIAL SD
-http://vipapyenhmw.top:8080/kang/71267133/158462
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL SD",DAZN MUNDIAL SD opc2
-http://vipapyenhmw.top:8080/kang/71267133/158473
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="Win Sports +",Win Sports +
-http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="Flow Sport",Flow Sport
-http://200.80.230.123:8000/play/a0bf/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="SKY SPORT LALIGA",SKY SPORT LALIGA
-http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="DSPORTS",DSPORTS
-http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="ESPN 2",ESPN 2
-http://vipapyenhmw.top:8080/kang/71267133/280
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="Deportivos en latino" tvg-name=ESPN DEPORTES,ESPN DEPORTES
-http://181.205.130.194:4000/play/a07i
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="FOX MX",FOX MX
-https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="FOX SPORTS 1",FOX SPORTS 1
-http://45.167.255.254:8010/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="FOX SPORTS 2",FOX SPORTS 2
-http://45.167.255.254:8010/play/a046/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="FOX SPORTS 3",FOX SPORTS 3
-http://45.167.255.254:8010/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL HD",DAZN MUNDIAL
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/281757
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="Deportivos" tvg-name="DAZN MUNDIAL SD",DAZN MUNDIAL 2
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/281758
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="Azteca Deportes",Azteca Deportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="BEIN SPORT EXTRA Ñ",BEIN SPORT EXTRA Ñ ES
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportivos en latino" tvg-name="BEIN SPORT EXTRA Ñ",BEIN SPORT EXTRA Ñ
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="Deportivos" tvg-name="TOP Barça",TOP Barça
@@ -283,28 +191,20 @@ https://jmp2.uk/stvp-ESBD80000288
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6078/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="Cine" tvg-name="M+ Estrenos",M+ Estrenos opc2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31872/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="Cine" tvg-name="M+ Estrenos",M+ Estrenos opc3
-http://vipapyenhmw.top:8080/kang/71267133/132309
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Accion-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name="M+ Accion",M+ Accion
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31868/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Accion-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name="M+ Accion",M+ Accion opc2
-http://vipapyenhmw.top:8080/kang/71267133/656
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Comedia-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name="M+ Comedia",M+ Comedia
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31869/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Comedia-por-M_Color-Positivo_RGB.jpg" group-title="Cine" tvg-name="M+ Comedia",M+ Comedia opc2
-http://vipapyenhmw.top:8080/kang/71267133/657
 #EXTINF:-1 tvg-id="MovistarDrama.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="Cine" tvg-name="M+ Drama",M+ Drama
-http://vipapyenhmw.top:8080/kang/71267133/660
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="Cine" tvg-name="M+ HITS",M+ HITS
-http://vipapyenhmw.top:8080/kang/71267133/663
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/12309
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="Cine" tvg-name="M+ INDIE",M+ INDIE
-http://vipapyenhmw.top:8080/kang/71267133/87106
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/236375
 #EXTINF:-1 tvg-id="Xtrm.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="Cine" tvg-name="XTRM",XTRM
-http://vipapyenhmw.top:8080/kang/71267133/767
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/236431
 #EXTINF:-1 tvg-id="Hollywood" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="Cine" tvg-name="HOLLYWOOD",HOLLYWOOD
-http://vipapyenhmw.top:8080/kang/71267133/665
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/236410
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Cine" tvg-name="AXN MOVIES",AXN MOVIES
-http://vipapyenhmw.top:8080/kang/71267133/736
+http://23.153.217.158:8080/Moont2025*34/3mLW3GXBzh4T/12320
 #EXTINF:-1 tvg-id="Dark.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="Cine" tvg-name="DARK",DARK
 http://vipapyenhmw.top:8080/kang/71267133/782
 #EXTINF:-1 tvg-id="Somos.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="Cine" tvg-name="SOMOS",SOMOS
